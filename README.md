@@ -9,8 +9,6 @@
 <p align="left">
 <a href="https://twitter.com/7lm_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7lm_dev" height="30" width="40" /></a>
 <a href="https://instagram.com/a.dev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.dev1" height="30" width="40" /></a>
-<a href="[https://instagram.com/a.dev1](https://discord.com/users/731651675198324827
-)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord" alt="a.dev1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
