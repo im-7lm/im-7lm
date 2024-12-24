@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Ahmed</h1>
-<h3 align="center">Front End Developer</h3>
+<h3 align="center">Front End Developer / UI Desinger</h3>
 <h5 align="center">Most of my projects are private.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-7lm&label=Profile%20views&color=0e75b6&style=flat" alt="im-7lm" /> </p>
