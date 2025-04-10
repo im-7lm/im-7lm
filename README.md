@@ -27,3 +27,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/im7lm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="im7lm" /></a></p><br><br>
+
+<hr>
+<br>
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/731651675198324827.png">
+</p>
